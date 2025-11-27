@@ -108,7 +108,7 @@ class GPTChatManager:
 
 # Option 1: Load from environment variables (Recommended for security)
 API_KEYS = [
-    os.getenv('OPENAI_API_KEY_1'),
+    os.getenv('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'),
     os.getenv('OPENAI_API_KEY_2'),
     os.getenv('OPENAI_API_KEY_3'),
     os.getenv('OPENAI_API_KEY_4'),
